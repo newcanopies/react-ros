@@ -5,8 +5,8 @@ Connect your website to your robot!
 
 ## Install
 
-```
-$ npm install 
+```bash
+npm install react-ros
 ```
 
 ## Usage
